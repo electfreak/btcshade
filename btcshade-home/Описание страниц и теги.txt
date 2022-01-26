@@ -1,0 +1,17 @@
+Home page:
+
+<title> Btcshade - top rated bitcoin mixer
+
+<description> Btcshade is top rated bitcoin mixer. We respect anonymity of our customers and don't record logs.
+
+keywords: bitcoin, mixer, tumbler, service, btc, btcmixer, btctumbler, btcshade, anonymity, cryptocurrency
+
+
+
+FAQ page:
+
+<title> Btcshade - What is bitcoin mixer?
+
+<description> Bitcoin mixer/tumbler is an anonymous service, that confuses the trails of Bitcoin transactions.
+
+keywords: bitcoin, mixer, tumbler, service, btc, btcmixer, btctumbler, btcshade, anonimity, cryptocurrency

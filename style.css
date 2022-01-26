@@ -1,0 +1,53 @@
+/* Подключение шрифтов */
+
+@font-face {
+	font-family: OpenSans;
+	src: url(../fonts/OpenSans-Bold.ttf);
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: OpenSans;
+	src: url(../fonts/OpenSans-Light.ttf);
+	font-weight: 300;
+}
+
+@font-face {
+	font-family: OpenSans;
+	src: url(../fonts/OpenSans-Regular.ttf);
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: OpenSans;
+	src: url(../fonts/OpenSans-Semibold.ttf);
+	font-weight: normal;
+}
+
+/* Типографика */
+
+h1, h2, h3, h4, h5, h6 { font-family: OpenSans; }
+
+h1 {
+	font-size: 36px;
+}
+
+h2 {
+	font-size: 28px;
+}
+
+h3 {
+	font-size: 22px;
+}
+
+h4 {
+	font-size: 20px;
+}
+
+h5 {
+	font-size: 18px;
+}
+
+h6 {
+	font-size: 16px;
+}
